@@ -1,0 +1,4 @@
+TWITTER_KEY = '___'
+TWITTER_SECRET_KEY = '___'
+ACCESS_TOKEN = '___'
+ACCESS_TOKEN_SECRET = '___'
